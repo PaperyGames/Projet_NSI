@@ -6,4 +6,4 @@
 |-Pause: Escape                    |
 |-----------------------------------
 
-To launch the game, just run the "Meny.py" file and click on "Start" button (requires pygame module installed)
+To launch the game, just run the "Menu.py" file and click on "Start" button (requires pygame module installed)
